@@ -1,0 +1,22 @@
+# ninja log v6
+2	184	1718023443624152821	CMakeFiles/NomDeVotreProjet.dir/src/led_control.c.o	128ff3df547f8ff7
+3	184	1718023443625198416	CMakeFiles/NomDeVotreProjet.dir/src/gpio.c.o	c22fe27a5eb48255
+3	184	1718023443624860829	CMakeFiles/NomDeVotreProjet.dir/src/button.c.o	e0a302f8591ccfb4
+184	221	1718023443806242733	NomDeVotreProjet	4ca8277600a0a549
+4	184	1718023443626526974	tests/CMakeFiles/run_tests.dir/__/src/gpio.c.o	ba9ff9e93827fae8
+5	92	1718024482937855649	build.ninja	a7b0c06aa84b893c
+2	184	1718023443623797274	CMakeFiles/NomDeVotreProjet.dir/src/main.c.o	902fe76000db2868
+4	184	1718023443626100761	tests/CMakeFiles/run_tests.dir/__/src/button.c.o	652815f34989d353
+4	184	1718023443625649422	tests/CMakeFiles/run_tests.dir/test_button.c.o	f832ac7b9e9d6c99
+5	184	1718023443627042189	tests/CMakeFiles/run_tests.dir/__/src/led_control.c.o	9452c096a5553b6f
+185	222	1718023443806548278	tests/run_tests	4c058bda2e83b337
+7	215	1718024491868145920	tests/CMakeFiles/run_tests.dir/__/src/gpio.c.o	ba9ff9e93827fae8
+8	215	1718024491869036544	tests/CMakeFiles/run_tests.dir/__/src/led_control.c.o	9452c096a5553b6f
+3	215	1718024491863938011	CMakeFiles/NomDeVotreProjet.dir/src/led_control.c.o	128ff3df547f8ff7
+3	216	1718024491864094011	CMakeFiles/NomDeVotreProjet.dir/src/button.c.o	e0a302f8591ccfb4
+6	216	1718024491866541298	tests/CMakeFiles/run_tests.dir/test_button.c.o	f832ac7b9e9d6c99
+7	216	1718024491867487838	tests/CMakeFiles/run_tests.dir/__/src/button.c.o	652815f34989d353
+3	216	1718024491863568178	CMakeFiles/NomDeVotreProjet.dir/src/main.c.o	902fe76000db2868
+4	216	1718024491865057342	CMakeFiles/NomDeVotreProjet.dir/src/gpio.c.o	c22fe27a5eb48255
+217	260	1718024492077453671	NomDeVotreProjet	4ca8277600a0a549
+216	260	1718024492076700798	tests/run_tests	4c058bda2e83b337
